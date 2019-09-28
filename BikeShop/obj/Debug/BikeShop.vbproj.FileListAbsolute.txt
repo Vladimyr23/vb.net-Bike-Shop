@@ -1,0 +1,11 @@
+d:\visual studio 2015\Projects\BikeShop\BikeShop\bin\Debug\BikeShop.exe.config
+D:\visual studio 2015\Projects\BikeShop\BikeShop\bin\Debug\BikeShop.exe
+D:\visual studio 2015\Projects\BikeShop\BikeShop\bin\Debug\BikeShop.pdb
+D:\visual studio 2015\Projects\BikeShop\BikeShop\bin\Debug\BikeShop.xml
+D:\visual studio 2015\Projects\BikeShop\BikeShop\obj\Debug\BikeShop.vbprojResolveAssemblyReference.cache
+D:\visual studio 2015\Projects\BikeShop\BikeShop\obj\Debug\BikeShop.Form1.resources
+D:\visual studio 2015\Projects\BikeShop\BikeShop\obj\Debug\BikeShop.Resources.resources
+D:\visual studio 2015\Projects\BikeShop\BikeShop\obj\Debug\BikeShop.vbproj.GenerateResource.Cache
+D:\visual studio 2015\Projects\BikeShop\BikeShop\obj\Debug\BikeShop.exe
+D:\visual studio 2015\Projects\BikeShop\BikeShop\obj\Debug\BikeShop.xml
+D:\visual studio 2015\Projects\BikeShop\BikeShop\obj\Debug\BikeShop.pdb
